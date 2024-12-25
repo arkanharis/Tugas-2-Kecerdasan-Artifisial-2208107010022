@@ -63,6 +63,11 @@ pip install huggingface_hub
 ```
 Pastikan untuk mengubah path pada kode sesuai dengan tempat anda meyimpan. DIkarenakan saya membuat di google colab, maka path di source code mengarah ke path dimana dataset saya tersimpan di colab.
 
+## Link Colab
+Untuk melihat tensorboard dan melihat semua grafik plot secara detail tanpa instalasi silahkan kunjungi colab ini.  
+**Link:** [Tugas-2-Kecerdasan-Artifisial-2208107010022](
+https://colab.research.google.com/drive/1qYji1_X1SK2xdXiJP840iugcOBXsvoSG?usp=sharing)
+
 ## Kesimpulan
 
 Proyek ini menunjukkan penerapan deep learning untuk klasifikasi gambar medis, khususnya klasifikasi penyakit Alzheimer menggunakan gambar MRI. Dengan mengklasifikasikan tingkat keparahan demensia secara akurat, proyek ini bertujuan untuk membantu dalam deteksi dini, yang dapat mengarah pada manajemen dan perawatan pasien yang lebih baik.
